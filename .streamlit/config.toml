@@ -1,0 +1,14 @@
+# UAAS Chatbot - Streamlit server/theme configuration
+[server]
+port = 8599
+headless = true
+runOnSave = true
+maxUploadSize = 200
+[browser]
+gatherUsageStats = false
+[theme]
+base = "light"
+primaryColor = "#0473EA"
+font = "sans serif"
+[client]
+toolbarMode = "minimal"
